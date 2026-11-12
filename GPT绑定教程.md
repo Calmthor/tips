@@ -76,4 +76,9 @@
 
 **打广告**：
 
-朋友做的一个类似电脑便签的程序:
+朋友做的一个类似电脑便签的程序:[便签小程序](https://github.com/yyunx/wantodo)
+
+金铲铲是一个非常好玩的游戏：[金铲铲之战](https://jcc.qq.com/#/index)
+
+本周日早上3点：BLG vs GEN 
+
